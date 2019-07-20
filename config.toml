@@ -1,0 +1,11 @@
+baseurl = "http://example.org"
+title = "Phonestico"
+author = "Joe Hutchinson"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "Phonestico"
+description = "Tudo sobre novidades tecnológicas"
+bgimg = "img/ignasi_pattern_s.png"
