@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://danielmfn.github.io/phonestico/"
 title = "Phonestico"
 author = "Joe Hutchinson"
 canonifyurls = true
