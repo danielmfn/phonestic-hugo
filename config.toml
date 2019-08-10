@@ -1,12 +1,12 @@
-baseurl = "https://danielmfn.github.io/phonestico/"
-title = "Phonestico"
-author = "Joe Hutchinson"
+baseurl = "http://http://phonestic.com/"
+title = "Phonestic"
+author = "Phonestic Inc"
 canonifyurls = true
 paginate = 3
 theme = "aether"
 googleAnalytics = "UA-88054481-3"
 
 [params]
-brand = "Phonestico"
+brand = "Phonestic"
 description = "Tudo sobre novidades tecnológicas"
 bgimg = "img/ignasi_pattern_s.png"
