@@ -5,6 +5,7 @@ canonifyurls = true
 paginate = 3
 theme = "aether"
 googleAnalytics = "UA-88054481-3"
+publishDir = "docs"
 
 [params]
 brand = "Phonestic"
