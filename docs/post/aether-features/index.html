@@ -72,6 +72,13 @@ if (!doNotTrack) {
           <p class="post-date">Posted <time datetime="2018-12-19">Dec 19, 2018</time></p>
         </header>
         
+        <picture class="post-figure">
+          
+          
+          <source srcset="https://phonestic.com/post/aether-features/mdd-iphone_hu84a3e811f2069d8ee93a6de645aedba9_796307_800x0_resize_q75_lanczos.jpg">
+          <img src="https://phonestic.com/post/aether-features/mdd-iphone_hu84a3e811f2069d8ee93a6de645aedba9_796307_800x0_resize_q75_lanczos.jpg" >
+        </picture>
+        
         
 
 <p>Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more.</p>
@@ -203,20 +210,25 @@ alert(s);
 
 <h2 id="images">Images</h2>
 
-<pre><code class="language-md">![NYC Skyline](/img/nyc.jpg)
+<pre><code class="language-md">![NYC Skyline](/post/aether-features/mdd-iphone.jpg)
 </code></pre>
 
-<p><img src="https://phonestic.com/img/nyc.jpg" alt="NYC Skyline" /></p>
+<p><img src="https://phonestic.com/post/aether-features/mdd-iphone.jpg" alt="NYC Skyline" /></p>
 
 <h2 id="small-images">Small Images</h2>
 
-<pre><code class="language-md">{{&lt; smallimg src=&quot;/img/nyc.jpg&quot; alt=&quot;NYC Skyline&quot; smartfloat=&quot;left&quot; width=&quot;250px&quot; &gt;}}
+<pre><code class="language-md">{{&lt; smallimg src=&quot;featuredImage&quot; alt=&quot;NYC Skyline&quot; smartfloat=&quot;left&quot; width=&quot;250px&quot; &gt;}}
 </code></pre>
 
 <picture>
     
-    <source srcset="https://phonestic.com/img/nyc.jpg">
-    <img src="https://phonestic.com/img/nyc.jpg" alt="NYC Skyline" class="small-img smartfloat-left" style="width: 250px;"/>
+    
+    
+        
+        
+        <source srcset="https://phonestic.com/post/aether-features/mdd-iphone_hu84a3e811f2069d8ee93a6de645aedba9_796307_250x0_resize_q75_lanczos.jpg">
+        <img src="https://phonestic.com/post/aether-features/mdd-iphone_hu84a3e811f2069d8ee93a6de645aedba9_796307_250x0_resize_q75_lanczos.jpg" alt="aether theme displayed on an iPhone" class="small-img smartfloat-left" style="width: 250px;"/>
+    
 </picture>
 
 <p>This image floats to the left of this paragraph and is 250px wide. Its aspect ratio is maintained so it will not stretch. The picture shows the New York skyline. You can see how the design is responsive and how the cards intelligently fit to the display. With flexbox and css grid, heavy frameworks such as bootstrap aren&rsquo;t necessary to create beautiful responsive designs. The cards in aether use flexbox to change the image from the right side on desktops to the top on mobile.</p>
@@ -235,6 +247,15 @@ alert(s);
       
       <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
   href="https://phonestic.com/post/aether-theme/" class="card blog-card" rel="bookmark" >
+  
+  <div class="card-img-container">
+    <p class="card-img-overlay">Next Article</p>
+    <picture>
+      
+      <source srcset="https://phonestic.com/post/aether-theme/mdd-macbook.jpg">
+      <img src="https://phonestic.com/post/aether-theme/mdd-macbook.jpg" class="card-img" alt="A MacBook showing a website using the aether theme">
+    </picture>
+  </div>
   
   <article class="card-body">
     <h2 class="card-title">Aether: A Clean Theme for Hugo</h2>

@@ -72,6 +72,13 @@ if (!doNotTrack) {
           <p class="post-date">Posted <time datetime="2014-09-28">Sep 28, 2014</time></p>
         </header>
         
+        <picture class="post-figure">
+          
+          
+          <source srcset="https://phonestic.com/post/creating-a-new-theme/nyc_hu3b8708ce2ca8fdb22d59bd8debf48e34_267164_800x0_resize_q75_lanczos.jpg">
+          <img src="https://phonestic.com/post/creating-a-new-theme/nyc_hu3b8708ce2ca8fdb22d59bd8debf48e34_267164_800x0_resize_q75_lanczos.jpg" >
+        </picture>
+        
         
 
 <h2 id="introduction">Introduction</h2>
@@ -1173,6 +1180,15 @@ $ vi themes/zafta/layouts/_default/single.html
       
       <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
   href="https://phonestic.com/post/goisforlovers/" class="card blog-card" rel="bookmark" >
+  
+  <div class="card-img-container">
+    <p class="card-img-overlay">Next Article</p>
+    <picture>
+      
+      <source srcset="https://phonestic.com/post/goisforlovers/lucas-benjamin-565254-unsplash.jpg">
+      <img src="https://phonestic.com/post/goisforlovers/lucas-benjamin-565254-unsplash.jpg" class="card-img" alt="Alt description for the featured image">
+    </picture>
+  </div>
   
   <article class="card-body">
     <h2 class="card-title">(Hu)go Template Primer</h2>
