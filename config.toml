@@ -3,7 +3,7 @@ title = "Phonestic"
 author = "Phonestic Inc"
 canonifyurls = true
 paginate = 3
-theme = "aether"
+theme = "aether-phonestic"
 googleAnalytics = "UA-88054481-3"
 publishDir = "docs"
 

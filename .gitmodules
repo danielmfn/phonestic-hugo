@@ -1,0 +1,3 @@
+[submodule "themes/aether-phonestic"]
+	path = themes/aether-phonestic
+	url = https://github.com/phonestic/aether-phonestic.git
