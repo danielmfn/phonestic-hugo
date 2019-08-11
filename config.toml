@@ -1,4 +1,4 @@
-baseurl = "http://http://phonestic.com/"
+baseurl = "https://phonestic.com/"
 title = "Phonestic"
 author = "Phonestic Inc"
 canonifyurls = true
