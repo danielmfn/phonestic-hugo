@@ -1,6 +1,6 @@
 ---
 title: "Conferência Apple"
-date: 2019-09-11T18:24:50-03:00
+date: 2019-09-11
 description: "Conferência da Apple no Steve Jobs Theater"
 categories: ["apple"]
 dropCap: true
