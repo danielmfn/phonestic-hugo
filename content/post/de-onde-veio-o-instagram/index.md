@@ -1,0 +1,17 @@
+---
+title: "De onde veio o Instagram?"
+date: 2019-09-29
+description: "Saiba a história desse aplicativo que revolucionou a postagem de fotos no mundo."
+categories: ["Curiosidades"]
+dropCap: true
+displayInMenu: false
+displayInList: true
+draft: false
+resources:
+- name: featuredImage
+  src: "instagram.jpg"
+---
+
+De onde veio o Instagram?
+
+A história começa com duas pessoas, Mike Krieger e Kevin Systrom. O Mike se chama Michel, e ele é brasileiro, nasceu em São Paulo, e quando criança tinha paixão por computadores e viagens. Esse gosto levou ele pra universidade de Stanford, onde fez até um mestrado. Trabalhou na Meebo, uma empresa com um mensageiro depois parte da Google. Em encontros e festas da universidade, ele conheceu um empreendedor cheio de ideias, o Kevin. O Kevin é norte-americano, também apaixonado por computação, porém com uma pegada mais empreendedora, ele estudou um ano antes em Stanford, fez intercâmbio pra Itália para estudar fotografia. Em 2009 o Systrom criou um aplicativo chamado "BRBN", que era inspirado no "Foursquare". Em março de 2010, ele conseguiu levantar 500 mil dólares para o projeto, mas faltava um sócio, e Mike foi a escolha para colocar o BRBN na direção certa. Em 8 semanas deram uma repaginada no serviço, retirando funcionalidades inúteis e aperfeiçoando as que ficaram, postar fotografias, interagir com os outros e marcar onde você estava. O nome também mudou, misturando "instantânea" e "telegrama", por que as fotos de polaroid as pessoas mandavam umas para as outras como se fossem cartas, agora isso era online e nascia nesse momento o "Instagram". Os filtros vieram como uma forma de "esconder" a baixa qualidade das fotos da época, e o primeiro foi o X-Pro 2. A primeira foto do Instagram é do próprio Kevin, e foi postada dia 16 de julho de 2010 no México, e é de um simpático cachorrinho. O aplicativo para IOS entrou no ar oficialmente dia 6 de outubro de 2010, e no primeiro dia 25 mil pessoas haviam se cadastrado, e em apenas 2 meses já havia passado de 1 milhão de usuários. Em 3 de agosto de 2012 chegou a marca de 27 milhões de usuários, e nesse mesmo dia saiu a versão para android, e 6 dias depois o Facebook compra o Instagram pela bagatela de 1 bilhão de dólares. Em dezembro de 2012 ganhou suporte para 25 novos idiomas, incluindo português. Em 2013 foi lançada a versão web, possibilidade de vídeos de até 15 segundos, uma versão para windows phone e o direct que virou o mensageiro do app. Quando foi comprado pelo Facebook eram 13 funcionários, e três anos depois a equipe era de 200 funcionários. Em 2016 foi alterado a logo retrô para uma mais moderna e colorida, adicionadas as lives que sumiam depois de finalizadas e o famoso stories que somem após 24 horas. Ainda em 2016 começou a introdução de algoritmos nos feeds, perfis corporativos, ferramentas mais completas, anúncios em maior quantidade e posts patrocinados. Em 2018 os fundadores do Instagram, Mike e Kevin deixam os cargos de chefia, a liberdade que o Facebook prometeu não durou muito tempo e ambos pediram demissão por esse motivo. Após a saída dos fundadores, Mark Zuckerberg anunciou a integração entre Instagram, Facebook e Whatsapp. Foi o instagram que criou muitas tendencias como: foto de gatinho, foto de comida, selfie no espelho, e muito mais, hoje sendo sinônimo de postagem de imagens, mesmo não sendo a primeira a trazer esse recurso. Uma curiosidade: você sabe qual é a foto mais curtida do Instagram? É de um ovo! São 53 milhões e 300 mil curtidas.

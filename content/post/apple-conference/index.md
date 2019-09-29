@@ -7,6 +7,9 @@ dropCap: true
 displayInMenu: false
 displayInList: true
 draft: false
+resources:
+- name: featuredImage
+  src: "apple.jpg"
 ---
 
 A Apple realizou mais uma de suas tradicionais conferências no dia 10 de setembro, apresentando uma nova geração de Iphones, atualizando outras linhas de produtos e mostrando novidades sobre os seus serviços de assinatura. O evento aconteceu no Steve Jobs Theater que é o auditório do campus da Apple e se encontra lá na California, e o CEO Tim Cook foi o apresentador desse evento. Quer saber tudo que foi anunciado nessa apresentação? Então confira com a gente aqui o que rolou nesse resumo completo.

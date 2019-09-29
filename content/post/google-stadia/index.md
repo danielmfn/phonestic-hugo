@@ -7,6 +7,9 @@ dropCap: true
 displayInMenu: false
 displayInList: true
 draft: false
+resources:
+- name: featuredImage
+  src: "stadia.jpg"
 ---
 
   O Google Stadia se trata da maior aposta da Google no mercado de games e consoles, o Google Stadia é uma plataforma de streaming de games da Google.

@@ -7,6 +7,9 @@ dropCap: true
 displayInMenu: false
 displayInList: true
 draft: false
+resources:
+- name: featuredImage
+  src: "like.jpg"
 ---
 
 As redes sociais hoje já fazem parte da nossa vida, e muita gente não se imagina sem dar uma conferida no Facebook, Twitter ou Instagram quando está com tempo livre. Mas, o que começou como uma proposta de sites para você encontrar novos ou velhos amigos, se transformou em uma briga de egos, um verdadeiro vício. Agora, parece que as próprias redes perceberam isso, e estão mudando aos poucos. Mas afinal quais são essas mudanças? Será que o público vai curtir essas novidades? O que esperar para o futuro?
