@@ -9,9 +9,7 @@ displayInList: true
 draft: false
 resources:
 - name: featuredImage
-src: "ytmusiclogo.jpg"
-	params: 
-		description: "Google Music logo"
+  src: "ytmusiclogo.jpg"
 ---
 
 
