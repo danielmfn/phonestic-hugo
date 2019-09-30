@@ -10,8 +10,8 @@ draft: false
 resources:
 - name: featuredImage
 src: "ytmusiclogo.jpg"
-params: 
-description: "Google Music logo"
+	params: 
+		description: "Google Music logo"
 ---
 
 
