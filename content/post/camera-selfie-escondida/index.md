@@ -1,6 +1,6 @@
 ---
 title: "Câmeras de selfie escondidas"
-date: 2019-09-29
+date: 2019-10-13
 description: "Câmeras de selfie escondidas"
 categories: ["smartphones"]
 dropCap: true
